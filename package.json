@@ -1,0 +1,17 @@
+{
+  "name": "affine-express-intro",
+  "version": "1.0.0",
+  "description": "Welcome to the weekend challenge!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "Waldyn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}
